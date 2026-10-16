@@ -1,10 +1,6 @@
 # 📰 AI-Powered Fake News Detection System Using LSTM
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fac18391-50a3-4163-95b5-645d96caff7d" alt="Fake News Detector Hero Banner" width="100%" />
-</p>
-
-<p align="center">
   <strong>An end-to-end Deep Learning & Natural Language Processing (NLP) pipeline designed to combat digital misinformation by classifying news articles with high contextual accuracy.</strong>
 </p>
 
